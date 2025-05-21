@@ -41,7 +41,6 @@ Uma ferramenta CLI em Python para compressão eficiente de imagens, capaz de red
 ```bash
 python main.py caminho/para/imagem.jpg -m moderado
 ```
-![Ilustração](print.png)
 
 ### Compressão de diretório (em lote)
 
