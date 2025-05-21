@@ -4,8 +4,7 @@
 
 Uma ferramenta CLI em Python para compressão eficiente de imagens, capaz de reduzir substancialmente o tamanho de arquivos de imagem mantendo uma qualidade visual aceitável.
 
-⚠️ **Nota:** Esta aplicação foi idealizada e desenvolvida para suprir uma demanda real do ambiente de trabalho, proporcionando uma solução interna para compactação de imagens de forma rápida, eficiente e livre das limitações, anúncios e lentidão comuns em ferramentas online. CLICompressor é parte do ferramental próprio utilizado na empresa para otimizar processos recorrentes de compressão de imagens em lote.
-
+⚠️ **Nota:** O CLICompressor foi desenvolvido com o propósito de suprir uma demanda operacional da empresa na qual atuo, permitindo a compressão de imagens de forma adequada, personalizável e sem as eventuais limitações de serviços online. Parte integrante do ecossistema de ferramentas internas para ganho de produtividade.
 
 ## Características
 
