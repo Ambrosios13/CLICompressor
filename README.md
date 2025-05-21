@@ -1,6 +1,6 @@
 ![Icone da aplicação](logo.png)
 
-# ImageCompressor
+# CLICompressor
 
 Uma ferramenta CLI em Python para compressão eficiente de imagens, capaz de reduzir substancialmente o tamanho de arquivos de imagem mantendo uma qualidade visual aceitável.
 
@@ -25,8 +25,8 @@ Uma ferramenta CLI em Python para compressão eficiente de imagens, capaz de red
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/image-compressor.git
-   cd image-compressor
+   git clone https://github.com/Ambrosios13/CLICompressor
+   cd CLICompressor
    ```
 
 2. Instale as dependências:
@@ -85,7 +85,7 @@ optional arguments:
 ## Estrutura do projeto
 
 ```
-image-compressor/
+CLICompressor/
 ├── main.py         # Interface de linha de comando
 ├── compressor.py   # Lógica de compressão de imagens
 ├── utils.py        # Funções auxiliares
