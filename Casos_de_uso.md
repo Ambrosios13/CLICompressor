@@ -1,4 +1,4 @@
-# Exemplos de Uso do CLICompresssor
+# Casos de Uso do CLICompresssor
 
 Este documento apresenta exemplos práticos de como utilizar o CLICompressor para diversas necessidades de compressão de imagens.
 
