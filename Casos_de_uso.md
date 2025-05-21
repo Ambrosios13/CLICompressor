@@ -52,30 +52,6 @@ python main.py diversos_formatos/ --format jpg -o convertidas_jpg/
 
 Resultado: Todas as imagens são convertidas para JPG com configurações de compressão padrão.
 
-## Cenários específicos
-
-### Preparar imagens para redes sociais
-
-```bash
-# Para Instagram (otimizado para qualidade e tamanho)
-python main.py original.jpg -q 80 -s 0.9 -o para_instagram/
-
-# Para WhatsApp (compressão mais agressiva)
-python main.py original.jpg -m agressivo -o para_whatsapp/
-```
-
-### Compressão para armazenamento de longo prazo
-
-```bash
-python main.py fotos_antigas/ -m moderado --format jpg -o arquivamento/
-```
-
-### Geração de miniaturas (thumbnails)
-
-```bash
-python main.py imagem_grande.png -s 0.2 -q 75 -o thumbnails/
-```
-
 ## Dicas para melhor desempenho
 
 1. **Escolha do formato**:
