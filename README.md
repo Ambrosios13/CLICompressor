@@ -1,3 +1,5 @@
+![Icone da aplicação](logo.png)
+
 # ImageCompressor
 
 Uma ferramenta CLI em Python para compressão eficiente de imagens, capaz de reduzir substancialmente o tamanho de arquivos de imagem mantendo uma qualidade visual aceitável.
